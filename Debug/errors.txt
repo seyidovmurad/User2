@@ -1,0 +1,3 @@
+18:0:35=> Line:  62 Source: User.cpp Text:  User not found
+18:0:36=> Line:  91 Source: User.cpp Text:  Wrong password
+18:0:52=> Line:  97 Source: User.cpp Text:  username must be longer than 6 character
